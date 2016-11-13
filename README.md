@@ -5,6 +5,7 @@
 **Por:** John J. Villavicencio S.
 
 * * *
+## 1. Resumen
 Este patrón define un conjunto de algoritmos, encapsula cada uno de ellos y los hace intercambiables. Permite que el algoritmo pueda variar independientemente de los clientes que lo utilicen.
 
 Esto quiere decir que nuestros objetos deben estar preparados para afrontar diversos contextos sin cambiar las interacciones de estos con el cliente.

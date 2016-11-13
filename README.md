@@ -1,0 +1,2 @@
+# PatronStrategy
+Implementación Patrón Strategy
